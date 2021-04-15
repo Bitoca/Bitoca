@@ -49,16 +49,19 @@ I’m currently working at  Grupo SBF as a tech lead engineer.
 ----
 
 ### Let's connect :electric_plug:
+
+<!--
 <a href="https://github.com/Bitoca">
   <img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/>
 </a>
+-->
 <a href="https://br.linkedin.com/in/felipe-pinheiro-0a142b6a?trk=public_profile_browsemap_profile-result-card_result-card_full-click">
   <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" />
 </a> 
 
 
 ----
-
+<!--
 ## Coding Activity
 
 <br/>
@@ -76,3 +79,4 @@ I’m currently working at  Grupo SBF as a tech lead engineer.
 </p>
 
 ----
+-->
