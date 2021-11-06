@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### My name is Felipe Pinheiro also known as Bitoca 😄
 
-I’m currently working at  Grupo SBF as a tech lead engineer.
+I’m currently working as a tech lead engineer.
 
 
 ----
@@ -56,7 +56,7 @@ I’m currently working at  Grupo SBF as a tech lead engineer.
 </a>
 -->
 <a href="https://br.linkedin.com/in/felipe-pinheiro-0a142b6a?trk=public_profile_browsemap_profile-result-card_result-card_full-click">
-  <img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" />
+  <img alt="My linkedin" width="28" src="https://cdn2.iconfinder.com/data/icons/aquaticus/60%20X%2060/linkedin.png" />
 </a> 
 
 
