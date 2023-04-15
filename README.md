@@ -59,6 +59,12 @@ I’m currently working as a tech lead engineer.
   <img alt="My linkedin" width="28" src="https://cdn2.iconfinder.com/data/icons/aquaticus/60%20X%2060/linkedin.png" />
 </a> 
 
+📈 My GitHub Stats
+<br />
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitoca&layout=compact&theme=tokyonight"
+/>
 
 ----
 <!--
