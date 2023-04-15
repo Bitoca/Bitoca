@@ -74,7 +74,7 @@ I’m currently working as a tech lead engineer.
   <img   
       align="center"
       height="165" 
-       src="https://github-readme-stats.vercel.app/api?username=bitoca&show_icons=true&theme=tokyonight"
+       src="https://www.linkedin.com/in/felipe-pinheiro-souza/"
     />
 </p>
 
